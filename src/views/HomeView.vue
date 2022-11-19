@@ -92,7 +92,7 @@
 
             <!-- Subheading -->
             <p class="text-white text-muted mb-5">
-              COME RENT MY SHIT OUT
+              Midterm Housing and Hosting
             </p>
 
             <!-- Button -->
@@ -119,12 +119,12 @@
           
             <!-- Heading -->
             <h2 class="mb-4 text-center">
-              Live like a celebrity
+              Located in the heart of wine country
             </h2>
 
             <!-- Subheading -->
             <p class="text-center text-muted text-left mb-5">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo officiis odio repudiandae illum molestiae.
+              Fully furnished condo near SSU, downtown Cotati, close to SMART train stations, Oliver’s Market, and easy access to 101. 15 minutes to Santa Rosa and Petaluma. 30 minutes to Sonoma. 45 minutes north of SF. 
             </p>
           
           </div>
@@ -142,13 +142,26 @@
 
               <!-- Heading -->
               <h4 class="text-center mb-3">
-                Five bedrooms
+                Two Bedrooms
               </h4>
 
               <!-- Content -->
-              <p class="text-center text-muted mb-0">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, enim earum quas placeat est facilis.
+              <p class="text-muted mb-0">
+                Master Bedroom
               </p>
+              <ul class="text-muted mb-0">
+                <li>Queen bed</li>
+                <li>Walkin closet</li>
+                <li>Sink vanity</li>
+              </ul>
+              <br>
+              <p class="text-muted mb-0">
+                Second bedroom
+              </p>
+              <ul class="text-muted mb-0">
+                <li>Bed that converts to a king</li>
+                <li>Desk for workable office space</li>
+              </ul>
 
             </div>
 
@@ -165,14 +178,23 @@
 
               <!-- Heading -->
               <h4 class="text-center mb-3">
-                Backyard pool
+                Amenities Available
               </h4>
 
               <!-- Content -->
-              <p class="text-center text-muted mb-0">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, enim earum quas placeat est facilis.
-              </p>
-
+              <ul class="text-muted mb-0">
+                <li>Pet friendly</li>
+                <li>High end linens</li>
+                <li>Black out shades</li>
+                <li>Wifi</li>
+                <li>Attached two car garage</li>
+                <li>Keyless entry</li>
+                <li>Private laundry</li>
+                <li>Peleton</li>
+                <li>Sleeper couch</li>
+                <li>Fire place</li>
+                <li>Fenced yard with a private patio</li>
+              </ul>
             </div>
 
           </div>
@@ -188,13 +210,18 @@
 
               <!-- Heading -->
               <h4 class="text-center mb-3">
-                3000 square feet
+                Add-on services available
               </h4>
 
               <!-- Content -->
-              <p class="text-center text-muted mb-0">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut, enim earum quas placeat est facilis.
-              </p>
+              <ul class="text-muted mb-0">
+                <li>Car rental</li>
+                <li>House keeping</li>
+                <li>Dry cleaning (pick up/drop off)</li>
+                <li>Personalized grocery shopping</li>
+                <li>Meal delivery system</li>
+                <li>and more....</li>
+              </ul>
 
             </div>
 
@@ -219,7 +246,7 @@
             
             <!-- Heading -->
             <h2 class="mb-4">
-              Panoramic city and ocean <span class="text-primary">views</span> you will enjoy
+              Experience everything <span class="text-primary">Sonoma County</span> has to offer
             </h2>
 
           </div>
@@ -229,7 +256,7 @@
 
             <!-- Subheading -->
             <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem libero adipisci odit, iure quibusdam veniam eius perferendis numquam cumque repudiandae, quisquam veritatis mollitia. Molestiae ipsa porro, id enim deleniti aspernatur? Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+              From zip lining, to fine dining, country farms and coastlines, Sonoma County’s wine country is world renowned for its stunning beauty. Sonoma County boasts of 400+ wineries and 30+ craft breweries, plentiful hiking trails along the coast or among towering redwood trees, and easy access to full spa and wellness experiences. 
             </p>
             <p class="mb-5 mb-md-0">
               <a href="contact.html" class="btn btn-outline-primary">
@@ -243,7 +270,7 @@
             <!-- Blockquote -->
             <blockquote class="blockquote">
               <p>
-                The house is lovely and the location is great! Kids can spend their time in the heated pool. The house is clean and the views are breathtaking.
+                The house is lovely and the location is great! Kids can spend their time eating dog shit in the neighbors yard. The house is clean and the views are breathtaking.
               </p>
               <footer class="text-muted">
                 <div class="avatar avatar mr-3">
