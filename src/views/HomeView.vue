@@ -317,25 +317,25 @@
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/IMG_0477.jpeg" alt="..." class="img-fluid">
+                <img src="assets/img/325289323_3419303485019436_656409891431218941_n.jpeg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/IMG_0478.jpeg" alt="..." class="img-fluid">
+                <img src="assets/img/325354708_729253298517828_2451699727900349062_n.jpeg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/IMG_0479.jpeg" alt="..." class="img-fluid">
+                <img src="assets/img/325354708_729253298517828_2451699727900349062_n.jpeg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/31.jpg" alt="..." class="img-fluid">
+                <img src="assets/img/325354708_729253298517828_2451699727900349062_n.jpeg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
