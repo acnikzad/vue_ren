@@ -233,7 +233,7 @@
 
     <!-- ABOUT
     ================================================== -->
-    <section class="section bg-light">
+    <section class="section bg-light" id="#learnmore">
           
           <!-- Triangle -->
           <div class="bg-triangle bg-triangle-dark bg-triangle-top bg-triangle-left"></div>
@@ -317,31 +317,163 @@
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/28.jpg" alt="..." class="img-fluid">
+                <img src="assets/img/321514173_1508656919545039_4622049887325248820_n.jpeg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/29.jpg" alt="..." class="img-fluid">
+                <img src="assets/img/322628693_1386969405440738_723535831461519195_n.jpeg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/30.jpg" alt="..." class="img-fluid">
+                <img src="assets/img/322955250_869935307547949_1442154768621851152_n.jpeg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/31.jpg" alt="..." class="img-fluid">
+                <img src="assets/img/323177901_737721437561459_4480043978930320895_n.jpeg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/27.jpg" alt="..." class="img-fluid">
+                <img src="assets/img/323363089_857144972021166_8111860393201275683_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/323699347_587998339831305_8798790209123819174_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/323972076_3379257872343763_1431037498807835705_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/324045189_692118049118848_2439446169702783868_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/324063316_2220200211506523_7449957366326968446_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/324944779_586411009995559_2697030111352887239_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/324986039_1369074373843291_6160316715831607742_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/325000031_671379788111854_5794862806352066858_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/325023564_1133629854017480_7884022945051763873_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/325048686_691879775997057_1238660947339911047_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/325090692_733002878090081_4811462579445307076_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/325289323_3419303485019436_656409891431218941_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/325292600_563659419134461_3704682353775903726_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/325301400_601618021741933_5819522011387731940_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/325350769_565301115492084_812888389278008650_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/325354708_729253298517828_2451699727900349062_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/325494960_919430736029798_5954124517389185024_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/325536816_566826545027020_4321977723370148010_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/326143253_1219214539021810_4647445338563095905_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/326310635_1013681160035584_4508409230571269949_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/326428389_513978874059480_8209340518139787494_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/326483225_1125892021431342_9015812003594152348_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/326799630_5701314229990238_7215796449602834595_n.jpeg" alt="..." class="img-fluid">
 
               </div>
             </div> <!-- / .slider -->
@@ -356,31 +488,163 @@
               <div class="slider-item col-6 col-md-3">
                 
                 <!-- Image -->
-                <img src="assets/img/28.jpg" alt="..." class="img-fluid">
+                <img src="assets/img/321514173_1508656919545039_4622049887325248820_n.jpeg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item col-6 col-md-3">
                 
                 <!-- Image -->
-                <img src="assets/img/29.jpg" alt="..." class="img-fluid">
+                <img src="assets/img/322628693_1386969405440738_723535831461519195_n.jpeg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item col-6 col-md-3">
                 
                 <!-- Image -->
-                <img src="assets/img/30.jpg" alt="..." class="img-fluid">
+                <img src="assets/img/322955250_869935307547949_1442154768621851152_n.jpeg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item col-6 col-md-3">
                 
                 <!-- Image -->
-                <img src="assets/img/31.jpg" alt="..." class="img-fluid">
+                <img src="assets/img/323177901_737721437561459_4480043978930320895_n.jpeg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item col-6 col-md-3">
                 
                 <!-- Image -->
-                <img src="assets/img/27.jpg" alt="..." class="img-fluid">
+                <img src="assets/img/323363089_857144972021166_8111860393201275683_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/323699347_587998339831305_8798790209123819174_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/323972076_3379257872343763_1431037498807835705_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/324045189_692118049118848_2439446169702783868_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/324063316_2220200211506523_7449957366326968446_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/324944779_586411009995559_2697030111352887239_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/324986039_1369074373843291_6160316715831607742_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/325000031_671379788111854_5794862806352066858_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/325023564_1133629854017480_7884022945051763873_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/325048686_691879775997057_1238660947339911047_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/325090692_733002878090081_4811462579445307076_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/325289323_3419303485019436_656409891431218941_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/325292600_563659419134461_3704682353775903726_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/325301400_601618021741933_5819522011387731940_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/325350769_565301115492084_812888389278008650_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/325354708_729253298517828_2451699727900349062_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/325494960_919430736029798_5954124517389185024_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/325536816_566826545027020_4321977723370148010_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/326143253_1219214539021810_4647445338563095905_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/326310635_1013681160035584_4508409230571269949_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/326428389_513978874059480_8209340518139787494_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/326483225_1125892021431342_9015812003594152348_n.jpeg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/326799630_5701314229990238_7215796449602834595_n.jpeg" alt="..." class="img-fluid">
 
               </div>
             </div> <!-- / .slider -->
@@ -556,93 +820,6 @@
       </div> <!-- / .container -->
 
     </section>
-    
-    <!-- FOOTER
-    ================================================== -->
-    <footer class="section bg-dark">
-
-      <!-- Triangles -->
-      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-left"></div>
-      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-right"></div>
-
-      <!--Content -->
-      <div class="container">
-        <div class="row align-self-center">
-          <div class="col-md-auto">
-
-            <!-- Brand -->
-            <p>
-              <a href="#" class="footer-brand text-white">
-                <svg class="footer-brand-svg" viewBox="0 0 235 80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <path d="M0 0 L 20 10 L 0 20 Z" class="text-primary" fill="currentColor"></path>
-                  <path d="M0 30 L 20 40 L 0 50 Z M20 45 L 0 55 L 20 65 Z M0 60 L 20 70 L 0 80 Z" fill="currentColor"></path>
-                  <text x="40" y="70" font-family="Arial, sans-serif" font-size="60" font-weight="bold" letter-spacing="-.025em" fill="currentColor">incline.</text>
-                </svg>
-              </a>
-            </p>
-        
-          </div>
-          <div class="col-md">
-        
-            <!-- Links -->
-            <ul class="list-unstyled list-inline text-md-right">
-              <li class="list-inline-item mr-2">
-                <a href="#" class="text-white">
-                  Terms and conditions
-                </a>
-              </li>
-              <li class="list-inline-item mr-2">
-                <a href="#" class="text-white">
-                  Privacy policy
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#" class="text-white">
-                  Contact us
-                </a>
-              </li>
-            </ul>
-
-          </div>
-        </div> <!-- / .row -->
-        <div class="row align-items-center">
-          <div class="col-md">
-        
-            <!-- Copyright -->
-            <p class="text-white text-muted">
-              <small>
-                &copy; Copyright <span class="current-year"></span> Simpleqode. All rights reserved.
-              </small>
-            </p>
-
-          </div>
-          <div class="col-md">
-        
-            <!-- Social links -->
-            <ul class="list-inline list-unstyled text-md-right">
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-github"></i>
-                </a>
-              </li>
-              <li class="list-inline-item ml-3">
-                <a href="#">
-                  <i class="fab fa-twitter"></i>
-                </a>
-              </li>
-              <li class="list-inline-item ml-3">
-                <a href="#">
-                  <i class="fab fa-instagram"></i>
-                </a>
-              </li>
-            </ul>
-
-          </div>
-        </div> <!-- / .row -->
-      </div> <!-- / .container -->
-
-    </footer>
-
     <!-- JAVASCRIPT
     ================================================== -->
     <!-- Global JS -->
