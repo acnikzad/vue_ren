@@ -27,7 +27,7 @@
     <!-- Theme CSS -->
     <link rel="stylesheet" href="assets/css/theme.min.css">
 
-    <title>REN</title>
+    <title>Ren Housing Solutions</title>
   </head>
   <body>
 
@@ -66,7 +66,7 @@
     <section class="section section-top section-full">
 
       <!-- Cover -->
-      <div class="bg-cover" style="background-image: url(assets/img/7237.jpg)"></div>
+      <div class="bg-cover" style="background-image: url(assets/img/rp2.jpeg)"></div>
 
       <!-- Overlay -->
       <div class="bg-overlay"></div>
@@ -81,24 +81,24 @@
           <div class="col-md-8 col-lg-5 align-self-end">
 
             <!-- Preheading -->
-            <p class="font-weight-medium text-xs text-uppercase text-white text-muted">
-              Built and designed with you in mind
+            <p class="font-weight-medium text-xs text-uppercase text-white text-muted" data-toggle="animation" data-animation="fadeUp" data-animation-order="0" data-animation-trigger="load">
+              REN Housing Solutions
             </p>
             
             <!-- Heading -->
-            <h1 class="text-white mb-4">
-              REN Housing Solutions
+            <h1 class="text-white mb-4" data-toggle="animation" data-animation="fadeUp" data-animation-order="1" data-animation-trigger="load">
+              Luxury town home located in the heart of wine country
             </h1>
 
             <!-- Subheading -->
-            <p class="text-white text-muted mb-5">
-              Midterm Housing and Hosting
+            <p class="text-white text-muted mb-5" data-toggle="animation" data-animation="fadeUp" data-animation-order="2" data-animation-trigger="load">
+              Built and designed with you in mind
             </p>
 
             <!-- Button -->
-            <div class="mb-5 mb-md-0">
+            <div class="mb-5 mb-md-0" data-toggle="animation" data-animation="fadeUp" data-animation-order="3" data-animation-trigger="load">
               <a href="contact.html" target="_blank" class="btn btn-outline-primary text-white">
-                Schedule a showing
+                Email to inquire
               </a>
             </div>
 
@@ -111,7 +111,7 @@
     <!-- FEATURES
     ================================================== -->
     <section class="section">
-
+      
       <!-- Content -->
       <div class="container">
         <div class="row justify-content-center">
@@ -234,56 +234,56 @@
     <!-- ABOUT
     ================================================== -->
     <section class="section bg-light">
-      
-      <!-- Triangle -->
-      <div class="bg-triangle bg-triangle-dark bg-triangle-top bg-triangle-left"></div>
-      <div class="bg-triangle bg-triangle-dark bg-triangle-bottom bg-triangle-right"></div>
-
-      <!-- Content -->
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 col-lg-6">
-            
-            <!-- Heading -->
-            <h2 class="mb-4">
-              Experience everything <span class="text-primary">Sonoma County</span> has to offer
-            </h2>
-
-          </div>
-        </div> <!-- / .row -->
-        <div class="row">
-          <div class="col-md-8">
-
-            <!-- Subheading -->
-            <p class="text-muted">
-              From zip lining, to fine dining, country farms and coastlines, Sonoma County’s wine country is world renowned for its stunning beauty. Sonoma County boasts of 400+ wineries and 30+ craft breweries, plentiful hiking trails along the coast or among towering redwood trees, and easy access to full spa and wellness experiences. 
-            </p>
-            <p class="mb-5 mb-md-0">
-              <a href="contact.html" class="btn btn-outline-primary">
-                Get in touch with us
-              </a>
-            </p>
-
-          </div>
-          <div class="col-md-4">
-            
-            <!-- Blockquote -->
-            <blockquote class="blockquote">
-              <p>
-                The house is lovely and the location is great! Kids can spend their time eating dog shit in the neighbors yard. The house is clean and the views are breathtaking.
-              </p>
-              <footer class="text-muted">
-                <div class="avatar avatar mr-3">
-                  <img src="assets/img/17.jpg" alt="..." class="img-cover rounded-circle">
-                </div> Jane Doe, Los Angeles
-              </footer>
-            </blockquote>
-
-          </div>
-        </div> <!-- / .row -->
-      </div> <!-- / .container -->
-
-    </section>
+          
+          <!-- Triangle -->
+          <div class="bg-triangle bg-triangle-dark bg-triangle-top bg-triangle-left"></div>
+          <div class="bg-triangle bg-triangle-dark bg-triangle-bottom bg-triangle-right"></div>
+    
+          <!-- Content -->
+          <div class="container">
+            <div class="row">
+              <div class="col-md-8 col-lg-6">
+                
+                <!-- Heading -->
+                <h2 class="mb-4">
+                  Experience everything <span class="text-primary">Sonoma County</span> has to offer
+                </h2>
+    
+              </div>
+            </div> <!-- / .row -->
+            <div class="row">
+              <div class="col-md-8">
+    
+                <!-- Subheading -->
+                <p class="text-muted">
+                  From zip lining, to fine dining, country farms and coastlines, Sonoma County’s wine country is world renowned for its stunning beauty. Sonoma County boasts of 400+ wineries and 30+ craft breweries, plentiful hiking trails along the coast or among towering redwood trees, and easy access to full spa and wellness experiences. 
+                </p>
+                <p class="mb-5 mb-md-0">
+                  <a href="contact.html" class="btn btn-outline-primary">
+                    Get in touch with us
+                  </a>
+                </p>
+    
+              </div>
+              <div class="col-md-4">
+                
+                <!-- Blockquote -->
+                <blockquote class="blockquote">
+                  <p>
+                    The house is lovely and the location is great! Kids can spend their time eating dog shit in the neighbors yard. The house is clean and the views are breathtaking.
+                  </p>
+                  <footer class="text-muted">
+                    <div class="avatar avatar mr-3">
+                      <img src="assets/img/17.jpg" alt="..." class="img-cover rounded-circle">
+                    </div> Jane Doe, Los Angeles
+                  </footer>
+                </blockquote>
+    
+              </div>
+            </div> <!-- / .row -->
+          </div> <!-- / .container -->
+    
+        </section>
 
     <!-- GALLERY
     ================================================== -->
@@ -317,25 +317,25 @@
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/325289323_3419303485019436_656409891431218941_n.jpeg" alt="..." class="img-fluid">
+                <img src="assets/img/28.jpg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/325354708_729253298517828_2451699727900349062_n.jpeg" alt="..." class="img-fluid">
+                <img src="assets/img/29.jpg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/325354708_729253298517828_2451699727900349062_n.jpeg" alt="..." class="img-fluid">
+                <img src="assets/img/30.jpg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/325354708_729253298517828_2451699727900349062_n.jpeg" alt="..." class="img-fluid">
+                <img src="assets/img/31.jpg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
@@ -481,7 +481,7 @@
 
             <!-- Image -->
             <div class="text-center">
-              <img src="assets/img/40.jpg" alt="..." class="img-fluid">
+              <img src="assets/img/325023564_1133629854017480_7884022945051763873_n.jpeg" alt="..." class="img-fluid">
             </div>
 
             <!-- Content -->
@@ -556,7 +556,112 @@
       </div> <!-- / .container -->
 
     </section>
+    
+    <!-- FOOTER
+    ================================================== -->
+    <footer class="section bg-dark">
 
+      <!-- Triangles -->
+      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-left"></div>
+      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-right"></div>
+
+      <!--Content -->
+      <div class="container">
+        <div class="row align-self-center">
+          <div class="col-md-auto">
+
+            <!-- Brand -->
+            <p>
+              <a href="#" class="footer-brand text-white">
+                <svg class="footer-brand-svg" viewBox="0 0 235 80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <path d="M0 0 L 20 10 L 0 20 Z" class="text-primary" fill="currentColor"></path>
+                  <path d="M0 30 L 20 40 L 0 50 Z M20 45 L 0 55 L 20 65 Z M0 60 L 20 70 L 0 80 Z" fill="currentColor"></path>
+                  <text x="40" y="70" font-family="Arial, sans-serif" font-size="60" font-weight="bold" letter-spacing="-.025em" fill="currentColor">incline.</text>
+                </svg>
+              </a>
+            </p>
+        
+          </div>
+          <div class="col-md">
+        
+            <!-- Links -->
+            <ul class="list-unstyled list-inline text-md-right">
+              <li class="list-inline-item mr-2">
+                <a href="#" class="text-white">
+                  Terms and conditions
+                </a>
+              </li>
+              <li class="list-inline-item mr-2">
+                <a href="#" class="text-white">
+                  Privacy policy
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#" class="text-white">
+                  Contact us
+                </a>
+              </li>
+            </ul>
+
+          </div>
+        </div> <!-- / .row -->
+        <div class="row align-items-center">
+          <div class="col-md">
+        
+            <!-- Copyright -->
+            <p class="text-white text-muted">
+              <small>
+                &copy; Copyright <span class="current-year"></span> Simpleqode. All rights reserved.
+              </small>
+            </p>
+
+          </div>
+          <div class="col-md">
+        
+            <!-- Social links -->
+            <ul class="list-inline list-unstyled text-md-right">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fab fa-github"></i>
+                </a>
+              </li>
+              <li class="list-inline-item ml-3">
+                <a href="#">
+                  <i class="fab fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item ml-3">
+                <a href="#">
+                  <i class="fab fa-instagram"></i>
+                </a>
+              </li>
+            </ul>
+
+          </div>
+        </div> <!-- / .row -->
+      </div> <!-- / .container -->
+
+    </footer>
+
+    <!-- JAVASCRIPT
+    ================================================== -->
+    <!-- Global JS -->
+    <component :is="'script'" src="assets/libs/jquery/dist/jquery.min.js"></component>
+    <component :is="'script'" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnKt8_N4-FKOnhI_pSaDL7g_g-XI1-R9E"></component>
+    
+        <!-- Plugins JS -->
+    <component :is="'script'" src="assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></component>
+    <component :is="'script'" src="assets/libs/flickity/dist/flickity.pkgd.min.js"></component>
+    <component :is="'script'" src="assets/libs/flickity-fade/flickity-fade.js"></component>
+    <component :is="'script'" src="assets/libs/jquery-parallax.js/parallax.min.js"></component>
+    <component :is="'script'" src="assets/libs/waypoints/lib/jquery.waypoints.min.js"></component>
+    <component :is="'script'" src="assets/libs/waypoints/lib/shortcuts/inview.min.js"></component>
+    <component :is="'script'" src="assets/libs/fullpage.js/vendors/scrolloverflow.min.js"></component>
+    <component :is="'script'" src="assets/libs/fullpage.js/dist/fullpage.min.js"></component>
+    <component :is="'script'" src="assets/libs/highlightjs/highlight.pack.min.js"></component>
+
+    <!-- Theme JS -->
+    <component :is="'script'" src="assets/js/theme.min.js"></component>
 
   </body>
 </html>
