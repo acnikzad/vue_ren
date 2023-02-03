@@ -87,7 +87,7 @@
             
             <!-- Heading -->
             <h1 class="text-white mb-4" data-toggle="animation" data-animation="fadeUp" data-animation-order="1" data-animation-trigger="load">
-              Luxury town home located in the heart of wine country
+              Furnished mid term housing for executive hosting and corporate accommodations
             </h1>
 
             <!-- Subheading -->
@@ -270,7 +270,7 @@
                 <!-- Blockquote -->
                 <blockquote class="blockquote">
                   <p>
-                    The house is lovely and the location is great! Kids can spend their time eating dog shit in the neighbors yard. The house is clean and the views are breathtaking.
+                    My husband and I stayed at the lovely temp housing condo in Rohnert Park after our home sold, while we waited for new construction to be completed in Santa Rosa. My husband often travels for work and he remarked how perfect the condo would be for people who might need extended stays or corporate housing accommodations while on work assignments. We ended up connecting with a travel nurse who was staying at an extended stay nearby, and after hearing of her living arrangements, we are SO glad we opted for a mid term rental instead of a motel/hotel booking. The Japandi design, vaulted ceilings and large master bedroom made this modest condo feel spacious and open. When we originally looked for a furnished apartment, a garage wasn’t on our “must have” list, but it has certainly been convenient while staying at this condo. We highly recommend REN Housing’s furnished condo for all your mid term rental needs. 
                   </p>
                   <footer class="text-muted">
                     <div class="avatar avatar mr-3">
@@ -302,10 +302,7 @@
               Inside the house
             </h2>
 
-            <!-- Subheading -->
-            <p class="text-center text-muted mb-5">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo officiis odio repudiandae illum molestiae.
-            </p>
+            <br>
 
           </div>
         </div> <!-- / .row -->
@@ -670,60 +667,25 @@
             
             <!-- Heading -->
             <h3 class="text-white mb-4">
-              Schedule a free showing tomorrow
+              In order to maintain the highest quality and best experience for each stay, we have a few requirements in place for guests:
             </h3>
 
             <!-- Content -->
-            <p class="text-white text-muted mb-4 mb-md-0">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae dolores, voluptates atque dicta vero quibusdam laudantium saepe sequi harum.
-            </p>
+            <ul class="text-white text-muted mb-4 mb-md-0">
+              <li>All interested applicants must screen through a third party platform</li>
+              <li>All guests must sign a lease, which will include a pet addendum for those with pets</li>
+              <li>All guests must maintain current standing with a valid renters insurance policy during their stay</li>
+              <li>Security deposit and first month rent due at lease signing. Cleaning fee of $250 (subject to change) will be withheld from deposit upon vacating</li>
+            </ul>
 
           </div>
           <div class="col-md-4">
             
             <!-- Button -->
-            <a href="contact.html" class="btn btn-outline-primary text-white">
+            <a href = "mailto: Renhousingsolutions@gmail.com?subject=Inquiring About Housing Solutions&body=I am interested in learning more about your mid term rentals!" class="btn btn-outline-primary text-white">
               Get in touch with us
             </a>
 
-          </div>
-        </div> <!-- / .row -->
-      </div> <!-- / .container -->
-
-    </section>
-
-    <!-- ABOUT
-    ================================================== -->
-    <section class="section">
-
-      <!-- Content -->
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-md-6 col-lg-5 offset-lg-1">
-            
-            <!-- Image -->
-            <div class="img-effect img-effect-solid mb-5 mb-md-0">
-              <img src="assets/img/41.jpg" class="img-fluid" alt="...">
-            </div>
-
-          </div>
-          <div class="col-md-6 col-lg-4 offset-lg-1">
-
-            <!-- Heading -->
-            <h2 class="mb-4">
-              Everything you need to enjoy your living
-            </h2>
-
-            <!-- Content -->
-            <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, maiores, aperiam. Excepturi assumenda non quasi ipsa quidem.
-            </p>
-
-            <!-- Button -->
-            <a href="#modal-video" data-toggle="modal" class="btn btn-outline-primary btn-circle mr-3">
-              <i class="fas fa-play"></i>
-            </a> Video demo
-            
           </div>
         </div> <!-- / .row -->
       </div> <!-- / .container -->
@@ -786,40 +748,6 @@
 
     </section>
 
-    <!-- MAP
-    ================================================== -->
-    <section class="section">
-
-      <!-- Content -->
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-md-8 col-lg-6">
-
-            <!-- Heading -->
-            <h2 class="text-center mb-4">
-              Find the house on the map
-            </h2>
-
-            <!-- Subheading -->
-            <p class="text-center text-muted mb-5">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum repellendus dolores, error.
-            </p>
-          
-          </div>
-        </div> <!-- / .row -->
-        <div class="row">
-          <div class="col-12">
-
-            <!-- Map -->
-            <div class="map">
-              <div class="map-container" data-markers="[[34.0872254,-118.4046315]]" data-zoom="8"></div>
-            </div>
-            
-          </div>
-        </div> <!-- / .row -->
-      </div> <!-- / .container -->
-
-    </section>
     <!-- JAVASCRIPT
     ================================================== -->
     <!-- Global JS -->
