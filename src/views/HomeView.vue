@@ -750,13 +750,13 @@
 
               <!-- Heading -->
               <h5>
-                Call us:
+                Text us:
               </h5>
               
               <!-- Phone -->
               <p class="text-muted">
                 <a href="tel:1234567890">
-                  132-465-78-90
+                  (415) 286-5037
                 </a>
               </p>
 
