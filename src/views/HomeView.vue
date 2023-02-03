@@ -233,7 +233,7 @@
 
     <!-- ABOUT
     ================================================== -->
-    <section class="section bg-light" id="#learnmore">
+    <section class="section bg-light" id="learnmore">
           
           <!-- Triangle -->
           <div class="bg-triangle bg-triangle-dark bg-triangle-top bg-triangle-left"></div>
@@ -692,61 +692,95 @@
 
     </section>
 
-    <!-- PROMO
+ <!-- OFFICES
     ================================================== -->
-    <section class="section bg-light">
+    <section class="section">
 
-      <!-- Triangles -->
-      <div class="bg-triangle bg-triangle-dark bg-triangle-top bg-triangle-left"></div>
-      <div class="bg-triangle bg-triangle-dark bg-triangle-bottom bg-triangle-right"></div>
-      
-      <!-- Content -->
-      <div class="container">
-        <div class="row">
-          <div class="col">
+    <!-- Content -->
+    <div class="container">
+      <div class="row">
+        <div class="col-md-2">
+          
+          <!-- Title -->
+          <h6 class="title">
+            Our offices
+          </h6>
 
-            <!-- Image -->
-            <div class="text-center">
-              <img src="assets/img/325023564_1133629854017480_7884022945051763873_n.jpeg" alt="..." class="img-fluid">
+        </div>
+        <div class="col-md-10">
+
+          <!-- Heading -->
+          <h3 class="mb-4">
+            Want to talk <span class="text-primary">in person</span>? Call us or visit us
+          </h3>
+
+          <!-- Subheading -->
+          <p class="text-muted mb-5">
+            We would love to accomodate your housing needs!
+          </p>
+          
+          <!-- Content -->
+          <div class="row">
+            <div class="col-md-6 col-lg-5">
+              
+              <!-- Heading -->
+              <h5>
+                Location:
+              </h5>
+              
+              <!-- Address -->
+              <p class="text-muted">
+                Rohnert Park, CA
+              </p>
+
+              <!-- Heading -->
+              <h5>
+                Email:
+              </h5>
+              
+              <!-- Address -->
+              <p class="text-muted">
+                <a href = "mailto: Renhousingsolutions@gmail.com?subject=Inquiring About Housing Solutions&body=I am interested in learning more about your mid term rentals!">
+                  RENHousingSolutions@gmail.com
+                </a>
+              </p>
+
             </div>
+            <div class="col-md-6 col-lg-5">
 
-            <!-- Content -->
-            <div class="row justify-content-center mt-5 mt-md-n10">
-              <div class="col-md-10 col-lg-8 col-xl-6">
-                
-                <!-- Promo -->
-                <div class="bg-white text-center shadow py-5 px-5">
+              <!-- Heading -->
+              <h5>
+                Call us:
+              </h5>
+              
+              <!-- Phone -->
+              <p class="text-muted">
+                <a href="tel:1234567890">
+                  132-465-78-90
+                </a>
+              </p>
 
-                  <!-- Icon -->
-                  <div class="mb-4">
-                    <span class="icon-home icon-2x"></span>
-                  </div>
-                  
-                  <!-- Heading -->
-                  <h3 class="text-center mb-4">
-                    Feel home again.
-                  </h3>
-                  
-                  <!-- Content -->
-                  <p class="text-muted text-center">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta eum vel qui natus sit quas suscipit aperiam deserunt voluptatum.
-                  </p>
+              <!-- Heading -->
+              <h5>
+                LinkedIn:
+              </h5>
+              
+              <!-- Phone -->
+              <p class="text-muted">
+                <a href="https://www.linkedin.com/in/royanikzad/">
+                  REN Housing Solutions
+                </a>
+              </p>
 
-                  <!-- Button -->
-                  <a href="contact.html" class="btn btn-outline-primary">
-                    Schedule a showing
-                  </a>
+            </div>
+          </div>   <!-- / .row -->
 
-                </div>
-
-              </div>
-            </div> <!-- / .row -->
-
-          </div>
-        </div> <!-- / .row -->
-      </div> <!-- / .container -->
+        </div>
+      </div> <!-- / .row -->
+    </div> <!-- / .container -->
 
     </section>
+
 
     <!-- JAVASCRIPT
     ================================================== -->

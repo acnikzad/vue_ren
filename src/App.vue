@@ -50,8 +50,8 @@
                   </span>
                 </li>
                 <li class="nav-item">
-                  <a href="https://themes.getbootstrap.com/product/incline-landing-page-set/" target="_blank" class="nav-link">
-                    Purchase now
+                  <a href="/testimonials" target="_blank" class="nav-link">
+                    Testimonials
                   </a>
                 </li>
               </ul>
@@ -77,11 +77,7 @@
           <!-- Brand -->
           <p>
             <a href="#" class="footer-brand text-white">
-              <svg class="footer-brand-svg" viewBox="0 0 235 80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                <path d="M0 0 L 20 10 L 0 20 Z" class="text-primary" fill="currentColor"></path>
-                <path d="M0 30 L 20 40 L 0 50 Z M20 45 L 0 55 L 20 65 Z M0 60 L 20 70 L 0 80 Z" fill="currentColor"></path>
-                <text x="40" y="70" font-family="Arial, sans-serif" font-size="60" font-weight="bold" letter-spacing="-.025em" fill="currentColor">incline.</text>
-              </svg>
+              <img  class="img-fluid" width="325" color="white" src="../public/assets/img/ex2Rw4R1R3CB.png">
             </a>
           </p>
       
@@ -92,17 +88,7 @@
           <ul class="list-unstyled list-inline text-md-right">
             <li class="list-inline-item mr-2">
               <a href="#" class="text-white">
-                Terms and conditions
-              </a>
-            </li>
-            <li class="list-inline-item mr-2">
-              <a href="#" class="text-white">
-                Privacy policy
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a href="#" class="text-white">
-                Contact us
+                "We aim above the mark to hit the mark"  -<span class="text-primary">Ralph Waldo Emerson</span>
               </a>
             </li>
           </ul>
@@ -112,31 +98,14 @@
       <div class="row align-items-center">
         <div class="col-md">
       
-          <!-- Copyright -->
-          <p class="text-white text-muted">
-            <small>
-              &copy; Copyright <span class="current-year"></span> Simpleqode. All rights reserved.
-            </small>
-          </p>
-
-        </div>
-        <div class="col-md">
-      
           <!-- Social links -->
           <ul class="list-inline list-unstyled text-md-right">
-            <li class="list-inline-item">
-              <a href="#">
-                <i class="fab fa-github"></i>
-              </a>
-            </li>
-            <li class="list-inline-item ml-3">
-              <a href="#">
-                <i class="fab fa-twitter"></i>
-              </a>
-            </li>
-            <li class="list-inline-item ml-3">
-              <a href="#">
-                <i class="fab fa-instagram"></i>
+            <li class="nav-item">
+              <a href="https://www.linkedin.com/in/royanikzad/" class="nav-link">
+                <i class="fab fa-linkedin"></i> 
+                <span class="d-xl-none ml-2">
+                  LinkedIn
+                </span>
               </a>
             </li>
           </ul>
