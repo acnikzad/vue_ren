@@ -49,11 +49,11 @@
                     <span></span>
                   </span>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                   <a href="/testimonials" target="_blank" class="nav-link">
                     Testimonials
                   </a>
-                </li>
+                </li> -->
               </ul>
     
             </div> <!-- / .navbar-collapse -->

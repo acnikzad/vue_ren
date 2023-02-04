@@ -841,7 +841,7 @@
       ================================================== -->
       <!-- Global JS -->
       <component :is="'script'" src="../assets/libs/jquery/dist/jquery.min.js"></component>
-      <component :is="'script'" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnKt8_N4-FKOnhI_pSaDL7g_g-XI1-R9E"></component>
+      <!-- <component :is="'script'" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnKt8_N4-FKOnhI_pSaDL7g_g-XI1-R9E"></component> -->
   
       <!-- Plugins JS -->
       <component :is="'script'" src="../assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></component>
