@@ -223,7 +223,7 @@
                     From zip lining, to fine dining, country farms and coastlines, Sonoma County’s wine country is world renowned for its stunning beauty. Sonoma County boasts of 400+ wineries and 30+ craft breweries, plentiful hiking trails along the coast or among towering redwood trees, and easy access to full spa and wellness experiences. 
                   </p>
                   <p class="mb-5 mb-md-0">
-                    <a href="contact.html" class="btn btn-outline-primary">
+                    <a href = "mailto: Renhousingsolutions@gmail.com?subject=Inquiring About Housing Solutions&body=I am interested in learning more about your mid term rentals!" class="btn btn-outline-primary">
                       Get in touch with us
                     </a>
                   </p>
