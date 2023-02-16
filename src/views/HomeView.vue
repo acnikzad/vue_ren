@@ -654,7 +654,7 @@
         </div> <!-- / .container -->
 
       </section>
-
+      
   <!-- OFFICES
       ================================================== -->
       <section class="section">
@@ -764,7 +764,7 @@
 
       <!-- Theme JS -->
       <component :is="'script'" src="assets/js/theme.min.js"></component>
-
+      <!-- </main> -->
     </body>
   </html>
 </template>
