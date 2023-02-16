@@ -75,7 +75,7 @@
       <!-- FEATURES
       ================================================== -->
       <section class="section">
-        
+
         <!-- Content -->
         <div class="container">
           <div class="row justify-content-center">
@@ -612,6 +612,8 @@
         </div> <!-- / .container -->
 
       </section>
+<!--  -->
+
 
       <!-- CTA
       ================================================== -->
@@ -746,7 +748,7 @@
       <!-- JAVASCRIPT
       ================================================== -->
       <!-- Global JS -->
-      <component :is="'script'" src="../assets/libs/jquery/dist/jquery.min.js"></component>
+      <component :is="'script'" src="assets/libs/jquery/dist/jquery.min.js"></component>
       <!-- <component :is="'script'" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnKt8_N4-FKOnhI_pSaDL7g_g-XI1-R9E"></component> -->
       
           <!-- Plugins JS -->

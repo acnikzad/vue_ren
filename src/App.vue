@@ -4,7 +4,7 @@
           <div class="container">
     
             <!-- Brand -->
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="/">
               <img  class="img-fluid" width="125" src="../public/assets/img/ex2Rw4R1R3CB.png">
               <svg class="navbar-brand-svg" viewBox="0 0 245 80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <!-- <img src="../public/assets/img/Ren-4.png"> -->
@@ -40,7 +40,7 @@
               <!-- Links -->
               <ul class="navbar-nav ml-auto">
                 <li class="nav-item ">
-                  <a href="#learnmore" class="nav-link">
+                  <a href="/#learnmore" class="nav-link">
                     Learn More
                   </a>
                 </li>
@@ -49,11 +49,11 @@
                     <span></span>
                   </span>
                 </li>
-                <!-- <li class="nav-item">
+                <li class="nav-item">
                   <a href="/testimonials" target="_blank" class="nav-link">
                     Testimonials
                   </a>
-                </li> -->
+                </li>
               </ul>
     
             </div> <!-- / .navbar-collapse -->
@@ -64,10 +64,6 @@
   <router-view/>
 
   <footer class="section bg-dark">
-    
-    <!-- Triangles -->
-    <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-left"></div>
-    <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-right"></div>
 
     <!--Content -->
     <div class="container">
