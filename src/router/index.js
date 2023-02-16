@@ -9,7 +9,7 @@ const routes = [
     component: HomeView
   },
   {
-    path: 'renhousingsolutions.com/testimonials',
+    path: '/testimonials',
     name: 'testimonials',
     component: Testimonials
   },
